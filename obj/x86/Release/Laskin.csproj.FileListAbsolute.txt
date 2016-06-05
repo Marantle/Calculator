@@ -1,0 +1,9 @@
+D:\Ohjelmointi\Laskin\Laskin\bin\Release\Laskin.exe
+D:\Ohjelmointi\Laskin\Laskin\bin\Release\Laskin.pdb
+D:\Ohjelmointi\Laskin\Laskin\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Ohjelmointi\Laskin\Laskin\obj\x86\Release\Laskin.Laskin.resources
+D:\Ohjelmointi\Laskin\Laskin\obj\x86\Release\Laskin.Properties.Resources.resources
+D:\Ohjelmointi\Laskin\Laskin\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Ohjelmointi\Laskin\Laskin\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Ohjelmointi\Laskin\Laskin\obj\x86\Release\Laskin.exe
+D:\Ohjelmointi\Laskin\Laskin\obj\x86\Release\Laskin.pdb
